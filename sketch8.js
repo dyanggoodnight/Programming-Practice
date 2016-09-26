@@ -19,8 +19,4 @@ function draw() {
     var endY = 770;
     line(startX, startY, endX, endY);
   }
-  noStroke();
-  textSize(600);
-  text("P", 250, 650);
-  noStroke();
 }
